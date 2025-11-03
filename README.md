@@ -1,5 +1,4 @@
 # Maze Generation Project
-### KALO UDAH FILE INI TINGGAL DELETE
 
 ## 1. Setup
 ### This struct has freedom of choice so any additions or revisions are fine but as a basis, it should have the following
